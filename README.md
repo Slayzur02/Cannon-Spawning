@@ -1,6 +1,6 @@
 # Overview
 
-This project is a 2d endless runner game based on https://store.steampowered.com/app/1102260/RANK_RUNNER/. However, it is set in a fantasy candyland (which is obvsiouly 10x better). 
+This project is a 2d endless runner game based on https://store.steampowered.com/app/1102260/RANK_RUNNER/. However, it is set in a fantasy candyland (which is obviously 10x better). 
 
 ### Instructions
 
